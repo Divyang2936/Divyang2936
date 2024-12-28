@@ -40,19 +40,6 @@
     </a>  
 </p>  
 
-<h3 align="left">My Projects:</h3>  
-<p align="left">  
-    <a href="https://github.com/your-project-link" target="_blank">  
-        <img src="https://via.placeholder.com/150" alt="Project 1" width="150" height="100" />  
-    </a>  
-    <a href="https://github.com/your-project-link" target="_blank">  
-        <img src="https://via.placeholder.com/150" alt="Project 2" width="150" height="100" />  
-    </a>  
-    <a href="https://github.com/your-project-link" target="_blank">  
-        <img src="https://via.placeholder.com/150" alt="Project 3" width="150" height="100" />  
-    </a>  
-</p>  
-
 <h3 align="left">GitHub Stats:</h3>  
 <p align="center">  
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&show_icons=true&locale=en&layout=compact" alt="divyang2936" />  
@@ -62,11 +49,4 @@
 </p>  
 <p align="center">  
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&" alt="divyang2936" />  
-</p>  
-
-<h3 align="left">Multimedia Section:</h3>  
-<p align="left">  
-    <img src="https://via.placeholder.com/600x300" alt="My Journey in Tech" width="600" height="300" />  
-    <p align="center">A brief video about my journey in tech can be found <a href="https://www.youtube.com/watch?v=your_video_link" target="_blank">here</a>.</p>  
 </p>
-
