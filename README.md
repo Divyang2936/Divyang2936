@@ -85,15 +85,23 @@ interests  : Building APIs · System Design · Machine Learning
 </div>
 
 ---
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=divyang2936&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true&cache_seconds=1800" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" width="48%" />
+
 </div>
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="40%" />
+
 </div>
+
 ---
 
 <div align="center">
