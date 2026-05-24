@@ -1,57 +1,89 @@
 <div align="center">
 
-# Hi 👋, I'm Divyang Patel
+![Banner](https://raw.githubusercontent.com/Divyang2936/Divyang2936/main/banner.png)
 
-### BTech IT Student | Backend Developer | Java · Spring Boot · REST APIs
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyangp29)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dev._.29)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyang2936)
+<div align="center">
+
+# `< Divyang Patel />`
+
+```java
+public class Divyang {
+    String role     = "Backend Developer";
+    String degree   = "BTech IT @ Silver Oak University";
+    String location = "Ahmedabad, Gujarat 🇮🇳";
+    String[] stack  = {"Java", "Spring Boot", "REST APIs", "MySQL"};
+    String learning = "AI / ML 🤖";
+    boolean openToWork = true;
+}
+```
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🎓 BTech Information Technology student at **Silver Oak University, Ahmedabad**
-- 💻 Passionate about **Backend Development** with Java & Spring Boot
-- 🤖 Currently exploring **Artificial Intelligence & Machine Learning**
-- 🌱 Learning **Spring Boot · Microservices · Python · ML fundamentals**
-- 🚀 Building REST APIs and backend systems
-- 📫 Reach me at **linkedin.com/in/divyangp29**
+## 🧑‍💻 About Me
+
+```yaml
+name       : Divyang Patel
+college    : Silver Oak University, Ahmedabad
+degree     : BTech - Information Technology
+focus      : Backend Development → AI/ML
+status     : Fresher | Open to Full-Time Roles
+interests  : Building APIs · System Design · Machine Learning
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**⚡ Backend**
 
-**Tools & Others**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00C4CC?style=for-the-badge&logo=mysql&logoColor=black)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=black)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**🔧 Tools**
 
-**Currently Learning**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**🤖 Currently Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [📚 Library Management System](https://github.com/Divyang2936/library_management_system) | Backend system to manage books, members and transactions | Java, MySQL, JDBC |
-| [💪 Fitness App Backend](https://github.com/Divyang2936) | REST API with user registration & workout tracking | Java, Spring Boot, MySQL |
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🔧 Tech |
+|:---:|:---:|:---:|
+| [📚 Library Management System](https://github.com/Divyang2936/library_management_system) | Manage books, members & transactions | `Java` `MySQL` `JDBC` |
+| [💪 Fitness App Backend](https://github.com/Divyang2936) | User registration & workout tracking APIs | `Java` `Spring Boot` `MySQL` |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -59,23 +91,39 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyang2936&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&theme=tokyonight&hide_border=true" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyang2936&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+## 🔗 Connect With Me
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyang2936&color=6366f1&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyangp29)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dev._.29)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyang2936)
 
-⭐ **If you find my projects helpful, consider giving them a star!**
+![Profile Views](https://komarev.com/ghpvc/?username=divyang2936&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
+```
+  ██████╗ ███████╗██╗   ██╗    ██████╗ 396
+  ██╔══██╗██╔════╝██║   ██║   ╚════██╗
+  ██║  ██║█████╗  ██║   ██║    █████╔╝
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝   ██╔═══╝
+  ██████╔╝███████╗ ╚████╔╝    ███████╗
+  ╚═════╝ ╚══════╝  ╚═══╝     ╚══════╝
+         Thanks for visiting! ⭐
+```
 
 </div>
