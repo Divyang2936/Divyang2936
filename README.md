@@ -10,11 +10,20 @@
 
 ```java
 public class Divyang {
-    String  role       = "Backend Developer";
-    String  degree     = "BTech IT @ Silver Oak University";
-    String  location   = "Ahmedabad, Gujarat, India";
-    String  stack[]    = {"Java", "Spring Boot", "REST APIs", "MySQL"};
-    String  learning   = "AI / ML";
+
+    String role       = "Backend Developer";
+    String degree     = "BTech IT @ Silver Oak University";
+    String location   = "Ahmedabad, Gujarat, India";
+
+    String[] stack = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL"
+    };
+
+    String learning = "AI / ML";
+
     boolean openToWork = true;
 }
 ```
