@@ -7,13 +7,14 @@
 # `< Divyang Patel />`
 
 <br/>
-
 ```java
 public class Divyang {
 
-    String role       = "Backend Developer";
-    String degree     = "BTech IT @ Silver Oak University";
-    String location   = "Ahmedabad, Gujarat, India";
+    String role = "Backend Developer";
+
+    String degree = "BTech IT @ Silver Oak University";
+
+    String location = "Ahmedabad, Gujarat, India";
 
     String[] stack = {
         "Java",
