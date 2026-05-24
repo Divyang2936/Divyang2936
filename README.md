@@ -2,28 +2,33 @@
 
 ![Banner](https://raw.githubusercontent.com/Divyang2936/Divyang2936/main/banner.png)
 
-</div>
-
-<div align="center">
+<br/>
 
 # `< Divyang Patel />`
 
+<br/>
+
 ```java
 public class Divyang {
-    String role     = "Backend Developer";
-    String degree   = "BTech IT @ Silver Oak University";
-    String location = "Ahmedabad, Gujarat 🇮🇳";
-    String[] stack  = {"Java", "Spring Boot", "REST APIs", "MySQL"};
-    String learning = "AI / ML 🤖";
+    String  role       = "Backend Developer";
+    String  degree     = "BTech IT @ Silver Oak University";
+    String  location   = "Ahmedabad, Gujarat, India";
+    String  stack[]    = {"Java", "Spring Boot", "REST APIs", "MySQL"};
+    String  learning   = "AI / ML";
     boolean openToWork = true;
 }
 ```
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyangp29)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dev._.29)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyang2936)
+![Profile Views](https://komarev.com/ghpvc/?username=divyang2936&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧑‍💻 About Me
 
@@ -31,12 +36,10 @@ public class Divyang {
 name       : Divyang Patel
 college    : Silver Oak University, Ahmedabad
 degree     : BTech - Information Technology
-focus      : Backend Development → AI/ML
-status     : Fresher | Open to Full-Time Roles
+focus      : Backend Development → AI / ML
+status     : Fresher  |  Open to Full-Time Roles
 interests  : Building APIs · System Design · Machine Learning
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -68,8 +71,6 @@ interests  : Building APIs · System Design · Machine Learning
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## 🚀 Projects
@@ -77,13 +78,11 @@ interests  : Building APIs · System Design · Machine Learning
 <div align="center">
 
 | 🗂️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | [📚 Library Management System](https://github.com/Divyang2936/library_management_system) | Manage books, members & transactions | `Java` `MySQL` `JDBC` |
 | [💪 Fitness App Backend](https://github.com/Divyang2936) | User registration & workout tracking APIs | `Java` `Spring Boot` `MySQL` |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -91,39 +90,24 @@ interests  : Building APIs · System Design · Machine Learning
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyang2936&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
+<img src="https://github-readme-stats.vercel.app/api?username=divyang2936&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" width="48%" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyang2936&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" width="48%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="40%" />
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyangp29)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dev._.29)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyang2936)
+### 🌟 *"Code. Learn. Build. Repeat."* 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyang2936&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-```
-  ██████╗ ███████╗██╗   ██╗    ██████╗ 396
-  ██╔══██╗██╔════╝██║   ██║   ╚════██╗
-  ██║  ██║█████╗  ██║   ██║    █████╔╝
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝   ██╔═══╝
-  ██████╔╝███████╗ ╚████╔╝    ███████╗
-  ╚═════╝ ╚══════╝  ╚═══╝     ╚══════╝
-         Thanks for visiting! ⭐
-```
+*Thanks for visiting my profile — feel free to connect!*
 
 </div>
