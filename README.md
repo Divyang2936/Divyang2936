@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Banner](https://raw.githubusercontent.com/Divyang2936/Divyang2936/main/banner.png)
 
 <br/>
@@ -7,24 +5,14 @@
 # `< Divyang Patel />`
 
 <br/>
+
 ```java
 public class Divyang {
-
-    String role = "Backend Developer";
-
-    String degree = "BTech IT @ Silver Oak University";
-
-    String location = "Ahmedabad, Gujarat, India";
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "MySQL"
-    };
-
-    String learning = "AI / ML";
-
+    String  role       = "Backend Developer";
+    String  degree     = "BTech IT @ Silver Oak University";
+    String  location   = "Ahmedabad, Gujarat, India";
+    String  stack[]    = {"Java", "Spring Boot", "REST APIs", "MySQL"};
+    String  learning   = "AI / ML";
     boolean openToWork = true;
 }
 ```
@@ -114,3 +102,4 @@ interests  : Building APIs · System Design · Machine Learning
 *Thanks for visiting my profile — feel free to connect!*
 
 </div>
+, initial-scale=1.0">
