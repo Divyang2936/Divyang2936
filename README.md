@@ -95,12 +95,6 @@ interests  : Building APIs · System Design · Machine Learning
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang2936&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="40%" />
-
-</div>
-
 ---
 
 <div align="center">
